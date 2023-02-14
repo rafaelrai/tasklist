@@ -67,7 +67,7 @@ function App()
             </Button>
             <Button onClick={deleteAllTask}
               style={{
-                backgroundColor: 'salmon',
+                backgroundColor: 'green',
                 color: 'white'
               }}
               variant='contained'>
